@@ -43,11 +43,11 @@ public class LevelGenerator : MonoBehaviour
 
         if (!_isVertical)
         {   //создать рандомный элемент из списка наших горизонтальных чанков
-            newChunk = Instantiate(_horizontalChunks[Random.Range(0, _horizontalChunks.Count)]); 
+            newChunk = Instantiate(_horizontalChunks[Random.Range(0, _horizontalChunks.Count)]);
         }
         else
         {   //создать рандомный элемент из списка наших вертикальных чанков
-            newChunk = Instantiate(_verticalChunks[Random.Range(0, _verticalChunks.Count)]); 
+            newChunk = Instantiate(_verticalChunks[Random.Range(0, _verticalChunks.Count)]);
         }
 
         startChunkPoint = newChunk.transform.GetChild(0).gameObject;
