@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{9F7046D1-A3B2-7DF6-81A0-750CEC050772}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9F7046D1-A3B2-7DF6-81A0-750CEC050772}|Assembly-CSharp.csproj|f:\\github\\taptapdashb4211\\tap tap dash\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7046D1-A3B2-7DF6-81A0-750CEC050772}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F7046D1-A3B2-7DF6-81A0-750CEC050772}|Assembly-CSharp.csproj|F:\\GitHub\\taptapdashB4211\\tap tap dash\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F7046D1-A3B2-7DF6-81A0-750CEC050772}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "F:\\GitHub\\taptapdashB4211\\tap tap dash\\Assets\\scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\UIController.cs",
+              "ToolTip": "F:\\GitHub\\taptapdashB4211\\tap tap dash\\Assets\\scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\scripts\\UIController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:11:57.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\LevelGenerator.cs",
               "ToolTip": "F:\\GitHub\\taptapdashB4211\\tap tap dash\\Assets\\scripts\\LevelGenerator.cs",
               "RelativeToolTip": "Assets\\scripts\\LevelGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:48:01.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CameraController.cs",
               "DocumentMoniker": "F:\\GitHub\\taptapdashB4211\\tap tap dash\\Assets\\scripts\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\CameraController.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerMove.cs",
               "DocumentMoniker": "F:\\GitHub\\taptapdashB4211\\tap tap dash\\Assets\\scripts\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PlayerMove.cs",
@@ -63,8 +80,7 @@
               "RelativeToolTip": "Assets\\scripts\\PlayerMove.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:53:40.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:53:40.261Z"
             }
           ]
         }
